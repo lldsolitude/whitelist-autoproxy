@@ -1,0 +1,24 @@
+name: Update whitelist
+on: 
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Update whitelist
+      run: |
+        curl -O https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+        sed -i -e 's/server=\//||/g' -e 's/\/.*$//g' accelerated-domains.china.conf
+        base64 accelerated-domains.china.conf > whitelist-autoproxy-base64.txt
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update whitelist" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
