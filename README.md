@@ -1,1 +1,1 @@
-![](https://github.com/actions/lldsolitude/workflows/Update%20whitelist/badge.svg)
+![](https://github.com/lldsolitude/whitelist-autoproxy/workflows/Update%20whitelist/badge.svg)
