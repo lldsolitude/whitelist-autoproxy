@@ -12,17 +12,20 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Update whitelist
+      id: update-whitelist
       run: |
         curl -O https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i -e 's/server=\//||/g' -e 's/\/.*$//g' accelerated-domains.china.conf
-        [ -z $(diff accelerated-domains.china.conf whitelist-autoproxy.txt) ] && exit 0
+      [ -z $(diff accelerated-domains.china.conf whitelist-autoproxy.txt) ] && echo "::set-output name=change::no"
         mv accelerated-domains.china.conf whitelist-autoproxy.txt
     - name: Commit files
+      if: steps.update-whitelist.outputs.change != 'no'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Update whitelist" -a
     - name: Push changes
+      if: steps.update-whitelist.outputs.change != 'no'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
