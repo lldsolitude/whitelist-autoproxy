@@ -16,6 +16,7 @@ jobs:
         curl -O https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i -e 's/server=\//||/g' -e 's/\/.*$//g' accelerated-domains.china.conf
         base64 accelerated-domains.china.conf > whitelist-autoproxy-base64.txt
+        rm accelerated-domains.china.conf
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
