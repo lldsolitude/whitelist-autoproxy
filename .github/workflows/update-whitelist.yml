@@ -16,7 +16,7 @@ jobs:
       run: |
         curl -O https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i -e 's/server=\//||/g' -e 's/\/.*$//g' accelerated-domains.china.conf
-      [ -z $(diff accelerated-domains.china.conf whitelist-autoproxy.txt) ] && echo "::set-output name=change::no"
+        [ -z $(diff accelerated-domains.china.conf whitelist-autoproxy.txt) ] && echo "::set-output name=change::no"
         mv accelerated-domains.china.conf whitelist-autoproxy.txt
     - name: Commit files
       if: steps.update-whitelist.outputs.change != 'no'
