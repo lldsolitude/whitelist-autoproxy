@@ -1,5 +1,8 @@
 name: Update whitelist
 on: 
+  push:
+    branches:
+      - master
   schedule:
     - cron: '0 0 * * *'
 
