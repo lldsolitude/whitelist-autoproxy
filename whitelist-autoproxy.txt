@@ -32,7 +32,6 @@
 ||002yifa.com
 ||003.wiki
 ||0033.com
-||003593.com
 ||0037wan.com
 ||00394.net
 ||003store.com
@@ -14109,6 +14108,7 @@
 ||bpteach.com
 ||bpxxfw.com
 ||bpzyf.com
+||bq04.com
 ||bq233.com
 ||bq8xs.com
 ||bqatj.com
@@ -14465,7 +14465,6 @@
 ||bwgongye.com
 ||bwgrt.com
 ||bwhgsb.com
-||bwi5.com
 ||bwie.net
 ||bwjf.com
 ||bwlc.net
@@ -16164,6 +16163,7 @@
 ||chaosu.com
 ||chaosuduokai.com
 ||chaosw.com
+||chaotag.com
 ||chaov.com
 ||chaowaihui.com
 ||chaowaihui.net
@@ -17736,7 +17736,6 @@
 ||ciqinghui.com
 ||cirea.vip
 ||cirmall.com
-||cirmt.com
 ||cirno9.net
 ||cirunzhang.com
 ||cis2016.org
@@ -19759,7 +19758,6 @@
 ||csvw.com
 ||csw18.com
 ||csweigou.com
-||csx0.com
 ||csxcdj.com
 ||csxdf.com
 ||csxingfutemple.org
@@ -21694,7 +21692,6 @@
 ||dikudu.com
 ||dili360.com
 ||dili365.com
-||dili520.com
 ||dilidili.tv
 ||dililitv.com
 ||dimeng.net
@@ -27127,7 +27124,6 @@
 ||gbase8a.com
 ||gbasebi.com
 ||gbdex.com
-||gbfdj.com
 ||gbgba.com
 ||gbicdn.com
 ||gbicom.com
@@ -27147,7 +27143,6 @@
 ||gc1616.com
 ||gc39.com
 ||gc5.cc
-||gcat.ml
 ||gcchina.com
 ||gccmgw.com
 ||gcgd.net
@@ -37461,7 +37456,6 @@
 ||js444123.com
 ||js53777.com
 ||js667.vip
-||js6777.net
 ||js7xc.com
 ||js8.in
 ||js811.com
@@ -39709,7 +39703,6 @@
 ||kugou.net
 ||kuguopush.com
 ||kugz.net
-||kuhou.com
 ||kuhua.net
 ||kuiblog.com
 ||kuicc.com
@@ -40739,7 +40732,6 @@
 ||lenovomobile.com
 ||lenovonetapp.com
 ||lenovonowgo.com
-||lenovoprinterclub.com
 ||lenovots.com
 ||lenovouat.com
 ||lenovowap.com
@@ -41523,7 +41515,6 @@
 ||lionaka.com
 ||lione.me
 ||lionelliu.com
-||lionkd.com
 ||lipai365.com
 ||lipf.tech
 ||lipian.com
@@ -51684,7 +51675,6 @@
 ||r77777777.com
 ||rabbitpre.com
 ||rabbitpre.me
-||rabitc.com
 ||race604.com
 ||racing-china.com
 ||racktom.com
@@ -53930,7 +53920,6 @@
 ||shangxiasha.com
 ||shangxueba.com
 ||shangxuebavip.com
-||shangyechengdui.com
 ||shangyejihua.com
 ||shangyekj.com
 ||shangyexin.com
@@ -62588,7 +62577,6 @@
 ||wasu.com
 ||wasu.tv
 ||watanabe-mayu.com
-||watch-hk.com
 ||watch-life.net
 ||watchleader.com
 ||watchmebeavoyeur.com
@@ -65373,7 +65361,6 @@
 ||xayy999.net
 ||xazcit.com
 ||xaztdz.com
-||xazyms.com
 ||xazzg.com
 ||xazzp.com
 ||xazzs.com
@@ -65455,7 +65442,6 @@
 ||xcestudio.com
 ||xcexe.com
 ||xcfee.com
-||xcfhdz.com
 ||xcfunds.com
 ||xcggpt.com
 ||xcgjj.com
@@ -70862,7 +70848,6 @@
 ||yuntongtech.com
 ||yuntongxun.com
 ||yuntu.io
-||yuntuyou.com
 ||yunvi.com
 ||yunvm.com
 ||yunvps.info
