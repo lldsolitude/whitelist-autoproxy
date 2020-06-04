@@ -13242,7 +13242,6 @@
 ||billionss.com
 ||billts.site
 ||billwang.net
-||biluzw.com
 ||bim-times.com
 ||bim99.org
 ||bimcn.org
@@ -14360,6 +14359,7 @@
 ||bphots.com
 ||bpimg.com
 ||bplam.com
+||bppan.com
 ||bppstore.com
 ||bpqwxsh.com
 ||bpteach.com
@@ -16698,6 +16698,7 @@
 ||chenyuanjian.com
 ||chenyudong.com
 ||chenzao.com
+||chenzhicheng.com
 ||chenzhongtech.com
 ||cheonhyeong.com
 ||cheoo.com
@@ -37161,7 +37162,6 @@
 ||jingying.com
 ||jingytech.com
 ||jingyu.com
-||jingyu.in
 ||jingyuelaw.com
 ||jingyuxiaoban.com
 ||jingyuyun.com
@@ -42613,6 +42613,7 @@
 ||lnvsystem.com
 ||lnwanji.com
 ||lnyhrlzy.com
+||lnyhyg.rest
 ||lnyun.net
 ||lnyyzyxy.com
 ||lnzikao.com
@@ -64180,6 +64181,7 @@
 ||wemomo.com
 ||wemunc.org
 ||wemvp.com
+||wen-lu.me
 ||wenancehua.com
 ||wenancn.com
 ||wenangou.com
