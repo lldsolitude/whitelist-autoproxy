@@ -9701,7 +9701,6 @@
 ||ahyczd.com
 ||ahydnet.com
 ||ahydwy.com
-||ahyeeaah.com
 ||ahyessoft.com
 ||ahyhj.com
 ||ahyouan.com
@@ -16708,7 +16707,6 @@
 ||cheyima.com
 ||cheyingw.com
 ||cheyipai.com
-||cheyipai.net
 ||cheyishang.com
 ||cheyisou.com
 ||cheyo.net
@@ -18130,6 +18128,7 @@
 ||cl-hs.com
 ||cl-kongtiao.com
 ||cl0438.com
+||cl2009.com
 ||cl3000.com
 ||cl597.com
 ||clady.cc
@@ -22325,7 +22324,6 @@
 ||dmallcdn.com
 ||dmaow.com
 ||dmbcdn.com
-||dmcbd.com
 ||dmcbs.com
 ||dmcdn.com
 ||dmcgas.com
@@ -22708,6 +22706,7 @@
 ||doorhr.com
 ||dopa.com
 ||dopic.net
+||dora-family.com
 ||dorapp.com
 ||doraunion.com
 ||dorayminail.com
@@ -28934,6 +28933,7 @@
 ||guanggu100.com
 ||guanggua.com
 ||guanghe.tv
+||guanghuayigou.com
 ||guangjiaohui888.com
 ||guangjie5u.com
 ||guangjiela.com
@@ -31033,6 +31033,7 @@
 ||helloklick.com
 ||hellokvm.com
 ||hellomeowlab.com
+||helloradio.org
 ||hellorf.com
 ||hellotalk8.com
 ||helloweba.com
@@ -31200,7 +31201,6 @@
 ||heyunchou.com
 ||heyuyhw.com
 ||heywoodsminiprogram.com
-||heyzero.com
 ||hez70.com
 ||heze.cc
 ||hezebus.com
@@ -31490,6 +31490,7 @@
 ||hindlish.com
 ||hinew8.com
 ||hinpy.com
+||hiogadw.bar
 ||hiopensource.com
 ||hioyun.com
 ||hipandashop.com
@@ -56208,7 +56209,6 @@
 ||sjxinxiwang.com
 ||sjxs.la
 ||sjxyx.com
-||sjy.im
 ||sjybsc.com
 ||sjycbl.com
 ||sjyst.net
@@ -56523,6 +56523,7 @@
 ||smzb.net
 ||smzdm.co
 ||smzdm.com
+||smzdmimg.com
 ||smzdwan.com
 ||smzwgk.com
 ||smzy.com
@@ -57898,7 +57899,6 @@
 ||swupdl.adobe.com
 ||swwlotus.com
 ||swwy.com
-||swyijia.com
 ||swykjgs.com
 ||swznb.com
 ||sx15.com
@@ -58139,7 +58139,6 @@
 ||syuan.net
 ||syue.com
 ||syw000.com
-||syweien.com
 ||sywg.com
 ||sywgy.com
 ||syxcn.com
@@ -62240,6 +62239,8 @@
 ||vceshi.net
 ||vcg.com
 ||vchangyi.com
+||vchat5.com
+||vchatshow.com
 ||vchello.com
 ||vchelp.net
 ||vchome.net
@@ -65226,6 +65227,7 @@
 ||wondershare.com
 ||wondershare.net
 ||wondersmemory.com
+||wondersofguizhou.com
 ||wonderstar027.com
 ||wonei.com
 ||wonerqu.com
@@ -71404,6 +71406,7 @@
 ||yuanchuangchi.com
 ||yuandi.com
 ||yuandiancredit.com
+||yuandianmeishu.com
 ||yuandingit.com
 ||yuandongjixie.com
 ||yuandonglirw.com
