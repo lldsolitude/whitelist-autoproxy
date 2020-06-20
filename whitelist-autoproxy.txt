@@ -785,7 +785,6 @@
 ||0792jj.net
 ||0792job.com
 ||0792u.com
-||0796gou.com
 ||079768.com
 ||0797rs.com
 ||0797tao.com
@@ -5132,6 +5131,7 @@
 ||51qupu.com
 ||51rc.com
 ||51rcsl.com
+||51read.site
 ||51readhome.com
 ||51reboot.com
 ||51rencai.com
@@ -23100,7 +23100,6 @@
 ||duitianhe.com
 ||duixuetang.com
 ||duizhuang.com
-||dujiaoshou.io
 ||dujiaoshou.org
 ||dujiapin.com
 ||dujin.org
@@ -28589,7 +28588,6 @@
 ||gq60.com
 ||gqak.com
 ||gqblinds.com
-||gqbs012.com
 ||gqhmt.com
 ||gqjd.net
 ||gqk.tv
@@ -30928,6 +30926,7 @@
 ||hellogame.net
 ||hellogc.net
 ||hellogithub.com
+||hellogslb.com
 ||hellohuohu.com
 ||hellojava.com
 ||hellojava.info
@@ -33951,7 +33950,6 @@
 ||icodef.com
 ||icodelogic.com
 ||icoderobot.com
-||icoffee.pro
 ||icomcn.com
 ||icon100.com
 ||iconfans.com
@@ -38306,7 +38304,6 @@
 ||junwei1000.com
 ||junwu262.com
 ||junyao.tech
-||junyi.me
 ||junying.com
 ||junyougame.com
 ||junyudns.com
@@ -38385,6 +38382,7 @@
 ||juyouquan.net
 ||juyoutv.cc
 ||juyouxi.com
+||juyouxuan.vip
 ||juyuancaiyin.com
 ||juyuands.com
 ||juzhen.com
@@ -42286,6 +42284,7 @@
 ||lkaty.com
 ||lkddq.com
 ||lkgame.com
+||lkgshq.com
 ||lkjl.com
 ||lkjujm.com
 ||lkkcdn.com
@@ -43085,7 +43084,6 @@
 ||lustervision.com
 ||lutao.com
 ||lutong2013.com
-||lutouwang.net
 ||luturen.com
 ||luv66.com
 ||luvgen.com
@@ -44152,7 +44150,6 @@
 ||md-dream.com
 ||md1618.com
 ||mdaxue.com
-||mdb6.com
 ||mdbchina.net
 ||mdbig.com
 ||mdbimg.com
@@ -73830,6 +73827,7 @@
 ||zi.com
 ||zi5.me
 ||ziben365.com
+||ziboshishen.com
 ||zibosky.com
 ||zicaitou.com
 ||zicaotang.com
