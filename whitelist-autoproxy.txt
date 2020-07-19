@@ -1442,7 +1442,6 @@
 ||1234yes.com
 ||12355.net
 ||12365auto.com
-||12365chia.com
 ||12366.com
 ||12366.net
 ||12366ca.com
@@ -3710,7 +3709,6 @@
 ||365auto.com
 ||365autogo.com
 ||365azw.com
-||365bibi.com
 ||365bihu.com
 ||365bj.com
 ||365book.net
@@ -7860,7 +7858,6 @@
 ||8e8z.com
 ||8ebo.com
 ||8europe.com
-||8f4vbvt.icu
 ||8fenxiang.com
 ||8gov.com
 ||8gw.com
@@ -8955,6 +8952,7 @@
 ||a1166.com
 ||a135.net
 ||a15.site
+||a152.cc
 ||a166.com
 ||a1714.com
 ||a2048.com
@@ -11145,7 +11143,6 @@
 ||asczxcefsv.com
 ||asd868.com
 ||asdbi.com
-||asdk.pw
 ||asdyf.com
 ||asean-china-center.org
 ||aseantradecenter.com
@@ -14709,7 +14706,6 @@
 ||c32356.com
 ||c32375.com
 ||c32869.com
-||c32m7hw.icu
 ||c360dn.com
 ||c366.com
 ||c3acg.com
@@ -18241,7 +18237,6 @@
 ||cnalls.com
 ||cname-cdn.com
 ||cname.co
-||cname.space
 ||cname123.net
 ||cnanzhi.com
 ||cnautofinance.com
@@ -19914,7 +19909,6 @@
 ||ctyo.com
 ||ctzrnet.com
 ||cu-air.com
-||cu163.com
 ||cu321.com
 ||cuaa.net
 ||cuantianhou.net
@@ -22153,6 +22147,7 @@
 ||dns-vip.net
 ||dns.com
 ||dns.la
+||dns.pub
 ||dns002.com
 ||dns0755.net
 ||dns100.net
@@ -22305,6 +22300,7 @@
 ||doglobal.net
 ||dogmr.com
 ||dogwhere.com
+||doh.pub
 ||dohuo.com
 ||doido.com
 ||doitim.com
@@ -23934,6 +23930,7 @@
 ||eflydns.net
 ||efmac.org
 ||efotile.com
+||efount.com
 ||efpp.com
 ||eftoutiao.com
 ||efubo.com
@@ -24451,7 +24448,6 @@
 ||erxe.club
 ||erya100.com
 ||eryajf.net
-||eryi.org
 ||eryuapp.com
 ||eryyutu.com
 ||erzzz.com
@@ -25641,7 +25637,6 @@
 ||fenmr.com
 ||fennessy.hk
 ||fenq.com
-||fenqi365.com
 ||fenqianbang.com
 ||fenqihome.com
 ||fenqile.com
@@ -27229,7 +27224,6 @@
 ||gd32.com
 ||gd3366.com
 ||gd3n.com
-||gd5551.com
 ||gd5552.com
 ||gd5558.com
 ||gd68.com
@@ -29909,6 +29903,7 @@
 ||haopianw5.com
 ||haopianyi.com
 ||haopic.me
+||haopinku.com
 ||haoq.tv
 ||haoqiao.com
 ||haoqicat.com
@@ -33373,6 +33368,7 @@
 ||i3smot.com
 ||i3v.cc
 ||i3youlun.com
+||i3yuan.com
 ||i4px.com
 ||i4t.com
 ||i51game.com
@@ -36506,7 +36502,6 @@
 ||jijuduo.com
 ||jikabao.com
 ||jikaicai.com
-||jikaopu365.com
 ||jike.info
 ||jikedaohang.com
 ||jikedata.com
@@ -39953,6 +39948,7 @@
 ||kvogues.com
 ||kvov.com
 ||kvov.org
+||kwaisczway7r4tz7m8.com
 ||kwaishop.com
 ||kwaixiaodian.com
 ||kwaiying.com
@@ -41391,7 +41387,6 @@
 ||limbo-nova.com
 ||limboy.com
 ||limei.com
-||limengzhuo.xyz
 ||limewe.com
 ||limh.me
 ||limian.com
@@ -45211,7 +45206,6 @@
 ||moofaa.com
 ||moofeel.com
 ||moogos.com
-||mooho.us
 ||moojnn.com
 ||moomcherry.com
 ||moomoo.com
@@ -46252,6 +46246,7 @@
 ||nbegame.com
 ||nbegame.net
 ||nbfce.com
+||nbfox.com
 ||nbgdjt.com
 ||nbhao.org
 ||nbhkdz.com
@@ -46450,6 +46445,7 @@
 ||netqin.com
 ||netqon.com
 ||netrunrun.com
+||netskao.com
 ||netsmell.com
 ||netsoz.com
 ||netspreading.com
@@ -46510,7 +46506,6 @@
 ||newer2001.com
 ||newfavor.net
 ||newgamer.com
-||newhb.com
 ||newhopeagri.com
 ||newhopegroup.com
 ||newhtml.net
@@ -49056,6 +49051,7 @@
 ||pinbaitai.com
 ||pinbang.com
 ||pincai.com
+||pincai360.com
 ||pinchain.com
 ||pinduoduo.com
 ||pinduoduo.net
@@ -52047,6 +52043,7 @@
 ||rebatesme.com
 ||rebcenter.com
 ||rebo5566.com
+||rebohu.com
 ||reborncodinglife.com
 ||recgo.com
 ||rechaos.com
@@ -57952,6 +57949,7 @@
 ||taiyainfo.com
 ||taiyang888.com
 ||taiyangd.com
+||taiyangpo.com
 ||taiyingled.com
 ||taiyiplus.com
 ||taiyougo.net
@@ -59191,7 +59189,6 @@
 ||tizoinfo.com
 ||tj-gangxin.com
 ||tj-guangxin.com
-||tj-ielts.com
 ||tj-kingdee.com
 ||tj-model.com
 ||tj-un.com
@@ -61663,7 +61660,6 @@
 ||vexnic.net
 ||vf-ideas.com
 ||vf5c.com
-||vfans.fun
 ||vfcsz.com
 ||vfe.cc
 ||vfinemusic.com
@@ -63162,7 +63158,6 @@
 ||weinc66.com
 ||weinisongdu.com
 ||weinovel.cc
-||weinovel.xyz
 ||weiosx.com
 ||weiot.net
 ||weiphone.net
@@ -63969,7 +63964,6 @@
 ||wiaapp.com
 ||wiacg.com
 ||wibili.com
-||wibknua.site
 ||wiblog.net
 ||wicep.com
 ||wicp.net
@@ -65423,6 +65417,7 @@
 ||x-mol.com
 ||x-plans.com
 ||x-ssp.com
+||x0431.com
 ||x0769.com
 ||x118.net
 ||x12plus.com
@@ -68888,6 +68883,7 @@
 ||yeseesports.com
 ||yesei.com
 ||yesense.com
+||yeseread.com
 ||yesfr.com
 ||yeshen.com
 ||yeshengarts.com
@@ -69627,7 +69623,6 @@
 ||yiyangidc.com
 ||yiyaojd.com
 ||yiyaojie.com
-||yiyasc.us
 ||yiyatuan.com
 ||yiybb.com
 ||yiye.ai
@@ -69666,7 +69661,6 @@
 ||yiyunweb.com
 ||yiyurumen.com
 ||yiyuzw.com
-||yiyy64.xyz
 ||yizaoyiwan.com
 ||yizeijun.com
 ||yizenb.com
