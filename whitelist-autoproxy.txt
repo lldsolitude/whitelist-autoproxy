@@ -5494,6 +5494,7 @@
 ||52pk.net
 ||52pkvr.com
 ||52playpc.com
+||52podcast.com
 ||52pojie.com
 ||52ppt.com
 ||52print.com
@@ -11535,7 +11536,6 @@
 ||b7l.cc
 ||b8yx.com
 ||b91.com
-||b997gs0d.icu
 ||ba-li.com
 ||ba125.com
 ||baaidu.com
@@ -11688,8 +11688,6 @@
 ||baidutt.com
 ||baiduux.com
 ||baiduv.com
-||baiduvip.life
-||baiduvip.space
 ||baiduvv.com
 ||baiduwebgame.com
 ||baiduweixin.xyz
@@ -11876,6 +11874,7 @@
 ||bakaawt.com
 ||bakaxl.com
 ||bakbitionb.com
+||baklib.com
 ||bakuaiwu.com
 ||bakumon.me
 ||bala.cc
@@ -19165,7 +19164,6 @@
 ||cpass.com
 ||cpatrk.net
 ||cpbao.com
-||cpc-hpc.com
 ||cpc.cc
 ||cpcccac.com
 ||cpcni.net
@@ -21230,6 +21228,7 @@
 ||dftq.net
 ||dfv5.net
 ||dfxq.com
+||dfxwdc.com
 ||dfyanyi.com
 ||dfyapp.com
 ||dfyl-luxgen.com
@@ -25170,7 +25169,6 @@
 ||fctsq.com
 ||fcvvip.com
 ||fcw013.com
-||fcwxcbs.com
 ||fcxjiuyuan.com
 ||fcxxh.org
 ||fcxzb.com
@@ -26652,7 +26650,6 @@
 ||g1c5.com
 ||g1d.net
 ||g1f5.com
-||g1kt.com
 ||g207.com
 ||g2b2b.com
 ||g2g1.com
@@ -29092,7 +29089,6 @@
 ||h0758.net
 ||h0f.me
 ||h1bz.com
-||h1iohpwc.com
 ||h231.com
 ||h2ero.com
 ||h2ex.com
@@ -30495,7 +30491,6 @@
 ||henan-gps.com
 ||henan100.com
 ||henanart.com
-||henanchengshizhaoming.com
 ||henanfucai.com
 ||henangeli.com
 ||henanjianling.com
@@ -30897,6 +30892,7 @@
 ||himiku.com
 ||himofi.com
 ||himovie.net
+||himuzik.net
 ||himy2.com
 ||hinabian.com
 ||hinavi.net
@@ -34170,7 +34166,6 @@
 ||imipy.com
 ||imiqian.com
 ||imjiayin.com
-||imjtv.com
 ||imkerwin.com
 ||imkevinyang.com
 ||imkira.com
@@ -46465,7 +46460,6 @@
 ||nj-marathon.org
 ||nj12333.com
 ||njbaisou.com
-||njbeisd.com
 ||njbys.com
 ||njc100.com
 ||njcdata.com
@@ -46634,7 +46628,6 @@
 ||nnpma.com
 ||nns.loan
 ||nnsc6.com
-||nnsjdd.com
 ||nnsky.com
 ||nnszwl.com
 ||nntlj.com
@@ -55322,7 +55315,6 @@
 ||sm96596.com
 ||smallk.net
 ||smallpdfer.com
-||smallseashell.com
 ||smallstep.vip
 ||smallxu.me
 ||smarch.com
@@ -56837,7 +56829,6 @@
 ||sxjagc.com
 ||sxjcylbx.com
 ||sxjinfang.com
-||sxjqdz.com
 ||sxjzxww.com
 ||sxkzxt.com
 ||sxlcdn.com
@@ -60124,6 +60115,7 @@
 ||tztusi.com
 ||tzxgzk.com
 ||tzxwzx.com
+||tzye123.com
 ||tzyg.org
 ||tzylczy.net
 ||tzysbwg.com
@@ -62432,7 +62424,6 @@
 ||webqxs.com
 ||webrtc.win
 ||webs.so
-||websaru.net
 ||websbook.com
 ||webseo9.com
 ||webshao.com
@@ -66197,7 +66188,6 @@
 ||xingkbjm.com
 ||xingkeduo.com
 ||xingkong.com
-||xingkong.us
 ||xingkongbook.com
 ||xingkongmt.com
 ||xingkongweishi.net
@@ -67486,6 +67476,7 @@
 ||xwbank.com
 ||xwcms.net
 ||xwcool.com
+||xwdsp.com
 ||xwei.tv
 ||xwhb.com
 ||xwhb.net
@@ -68500,6 +68491,7 @@
 ||yhzml.com
 ||yhzuche.com
 ||yhzy365.com
+||yi-it.com
 ||yi-jy.com
 ||yi-programmer.com
 ||yi-you.org
@@ -69809,7 +69801,6 @@
 ||youzijie.com
 ||youziku.com
 ||youziqk.com
-||youziyue.com
 ||youzu.com
 ||yovisun.com
 ||yovocloud.com
