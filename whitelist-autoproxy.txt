@@ -4408,7 +4408,6 @@
 ||4d4c.com
 ||4dai.com
 ||4db.com
-||4dmayi.com
 ||4dtime.com
 ||4everdns.com
 ||4f89.com
@@ -5609,7 +5608,6 @@
 ||54bt.com
 ||54chen.com
 ||54daxiang.com
-||54dev.com
 ||54doctor.net
 ||54doctors.net
 ||54fcnr.com
@@ -6523,7 +6521,6 @@
 ||66you.com
 ||66ys.cc
 ||66ys.co
-||66ys.org
 ||66ys.tv
 ||66zhang.com
 ||66zhizu.com
@@ -6571,6 +6568,7 @@
 ||685wo.com
 ||68635978.com
 ||6868.com
+||6868shop.com
 ||686fw.com
 ||686ib.com
 ||686wan.com
@@ -8432,7 +8430,6 @@
 ||97rp.com
 ||97taiju.com
 ||97ting.com
-||97ub.cc
 ||97ui.com
 ||97uimg.com
 ||97wd.com
@@ -13685,7 +13682,6 @@
 ||bobtj.com
 ||bobvip48.com
 ||bocaidaka.com
-||bocaikanshu.com
 ||bocaiwang777.com
 ||bocep2c.com
 ||bocichina.com
@@ -14435,7 +14431,6 @@
 ||bzxinwen.com
 ||bzxz.net
 ||bzxzk.net
-||bzyuedu.com
 ||bzzss.com
 ||c-119.com
 ||c-3.moe
@@ -19490,6 +19485,7 @@
 ||cssyq.com
 ||cssyzxx.com
 ||cstccloud.org
+||cstcloud.net
 ||cstea.org
 ||cstech.ltd
 ||csteelnews.com
@@ -27434,7 +27430,6 @@
 ||gleasy.com
 ||glface.com
 ||glgczk.com
-||glgl8.com
 ||glgoo.com
 ||glgoo.net
 ||glgoo.org
@@ -27996,6 +27991,7 @@
 ||greenxcx.com
 ||greenxf.com
 ||greenxf.net
+||gretf.com
 ||greycdn.net
 ||greyli.com
 ||greytech.org
@@ -35128,6 +35124,7 @@
 ||janmeng.com
 ||janpn.com
 ||janrain.biz
+||janurary15.com
 ||janxing.com
 ||japanzhuanyun.com
 ||jappstore.com
@@ -38918,6 +38915,7 @@
 ||kshot.com
 ||ksjgs.com
 ||ksjlsw.wang
+||ksjsa.com
 ||ksjygc.com
 ||kskino.com
 ||ksks001.com
@@ -38942,7 +38940,6 @@
 ||ksupdate.com
 ||ksyiqiwan.com
 ||ksyna.com
-||ksyoulee.org
 ||ksyuki.com
 ||ksyun.com
 ||ksyunad.com
@@ -41469,6 +41466,7 @@
 ||longdezhu.com
 ||longdian.com
 ||longene.org
+||longfenfa.com
 ||longfor.com
 ||longfu360.com
 ||longger.net
@@ -45259,7 +45257,6 @@
 ||mz6.net
 ||mzarq.com
 ||mzbei.com
-||mzdbjxx.com
 ||mzeat.com
 ||mzeyes.com
 ||mzfile.com
@@ -46381,7 +46378,6 @@
 ||noxgroup.com
 ||noxue.com
 ||noxxxx.com
-||npanel.net
 ||npcgo.com
 ||npcka.com
 ||nphoto.net
@@ -59954,6 +59950,7 @@
 ||uncbd.com
 ||unccr.com
 ||uncle-ad.com
+||uncledesk.com
 ||unclicks.com
 ||undefined.ltd
 ||underfill.cc
@@ -60219,7 +60216,6 @@
 ||uszcn.com
 ||ut7.com
 ||ut8d.com
-||ut8d8.com
 ||utan.com
 ||utanbaby.com
 ||utc-ic.com
@@ -60800,6 +60796,7 @@
 ||viptijian.com
 ||vipwaf.com
 ||vipwaf.net
+||vipwm.cc
 ||vipxap.com
 ||vipxdns.com
 ||vipxdns.info
@@ -63866,6 +63863,7 @@
 ||wuhongsheng.com
 ||wuhouhaodian.com
 ||wuhu.cc
+||wuhuashe.com
 ||wuhubtv.com
 ||wuhulife.com
 ||wuhusanlian.com
@@ -65139,7 +65137,6 @@
 ||xiaoma.wang
 ||xiaomachuxing.com
 ||xiaomagaojian.com
-||xiaomai999.com
 ||xiaomaigongkao.com
 ||xiaomaiketang.com
 ||xiaomantu.com
@@ -66277,6 +66274,7 @@
 ||xn--1lq8pg83a3pb4zr6m0c.com
 ||xn--2krw29cdqai43k.com
 ||xn--2qu92fhtx4ff.site
+||xn--2qux23c9ziyrq.video
 ||xn--2qux23confgml.club
 ||xn--2qux23confgml.online
 ||xn--48s290ajcu2tzl891isd3anfh.com
@@ -73251,6 +73249,7 @@
 ||zzoumai.com
 ||zzpd8.com
 ||zzpuke.com
+||zzpzero.com
 ||zzqbx.com
 ||zzqklm.com
 ||zzqxs.com
