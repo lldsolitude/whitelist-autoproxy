@@ -6620,7 +6620,6 @@
 ||701sou.com
 ||703804.com
 ||705112.com
-||705776.com
 ||7068.cc
 ||70689.com
 ||706kj.com
@@ -13069,7 +13068,6 @@
 ||bjkaihua.net
 ||bjkgjlu.com
 ||bjkhzx.com
-||bjkorea-s.com
 ||bjkrtwl.com
 ||bjl777.com
 ||bjlcs-tech.com
@@ -27961,7 +27959,6 @@
 ||gucunpark.net
 ||gudaiba.com
 ||gudaovision.com
-||gudaoyufu.com
 ||gudi.cc
 ||guer.org
 ||guestops.com
@@ -37226,7 +37223,6 @@
 ||jxstsz.com
 ||jxsxb.com
 ||jxsxdp.com
-||jxteacher.com
 ||jxtech.net
 ||jxtobo.com
 ||jxtvshop.com
@@ -41014,7 +41010,6 @@
 ||logooo.net
 ||logopay.com
 ||logoquan.com
-||logorc.com
 ||logoshe.com
 ||logosheji.com
 ||logosj.com
@@ -50325,7 +50320,6 @@
 ||qwertali.pw
 ||qwertdd.pw
 ||qwertgg.pw
-||qwertjdh.pw
 ||qwgt.com
 ||qwimm.com
 ||qwolf.com
@@ -61230,7 +61224,6 @@
 ||wduw.com
 ||wdw6.com
 ||wdw88.com
-||wdwccd.com
 ||wdxmzy.com
 ||wdxsk.com
 ||wdxtub.com
@@ -68959,6 +68952,7 @@
 ||yueqi.com
 ||yueqiweixiu.com
 ||yueqixuexi.com
+||yueque.com
 ||yuer.com
 ||yuerbao.com
 ||yueru.com
