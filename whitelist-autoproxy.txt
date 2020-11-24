@@ -2382,6 +2382,7 @@
 ||1shipin.net
 ||1shoucang.com
 ||1sj.tv
+||1sm23.com
 ||1so.la
 ||1sohu.com
 ||1speaking.com
@@ -12977,6 +12978,7 @@
 ||bjdt360.com
 ||bjeasycom.com
 ||bjepn.com
+||bjewaytek.com
 ||bjexmail.com
 ||bjfengguang.com
 ||bjffdz.com
@@ -23949,6 +23951,7 @@
 ||eui.cc
 ||euibe.com
 ||eulike.com
+||eulixos.com
 ||euratwin.com
 ||eureka.name
 ||eurochinesedaily.com
@@ -28198,6 +28201,7 @@
 ||gxhl.com
 ||gxhma.com
 ||gxhouse.com
+||gxhxmy88.com
 ||gxhzxw.com
 ||gxiang.net
 ||gxibvc.net
@@ -32401,7 +32405,6 @@
 ||hzzsbbs.com
 ||hzzsdz.com
 ||hzzsfs.com
-||hzztkt.com
 ||i-27.name
 ||i-520.net
 ||i-ab.com
@@ -36369,6 +36372,7 @@
 ||jomodns.com
 ||jonahome.net
 ||jone.tech
+||jone.wang
 ||jongta.com
 ||jonllen.com
 ||jonny.vip
@@ -36587,7 +36591,6 @@
 ||jscts.com
 ||jsd.cc
 ||jsdaima.com
-||jsdpg.club
 ||jsdplaw.com
 ||jsdujuan.com
 ||jsdushi.net
@@ -44829,6 +44832,7 @@
 ||n9cn.net
 ||n9z.net
 ||naadou.com
+||nadgrid.com
 ||nadianshi.com
 ||naew.org
 ||nafanlong.com
@@ -45542,7 +45546,6 @@
 ||niuche.com
 ||niucodata.com
 ||niudai120.com
-||niudana.com
 ||niudingfeng.com
 ||niug8.com
 ||niugame.net
@@ -49314,6 +49317,7 @@
 ||qinglm.com
 ||qinglue.net
 ||qinglvai.com
+||qinglvcha.com
 ||qinglvmao.com
 ||qingman.cc
 ||qingmang.me
@@ -50566,6 +50570,7 @@
 ||rcss88.com
 ||rcw0375.com
 ||rcwl.net
+||rcxhhexing.com
 ||rcxjsc.com
 ||rcyd.net
 ||rczp.org
@@ -55514,6 +55519,7 @@
 ||sunwy.org
 ||sunxiaoning.com
 ||sunxinfei.com
+||sunyansong.com
 ||sunyea.com
 ||sunyet.com
 ||sunyingchao.com
@@ -59633,6 +59639,7 @@
 ||uuaa.net
 ||uuaoz.com
 ||uubookwb.com
+||uuboos.com
 ||uucolor.com
 ||uudonghua.com
 ||uudsp.com
@@ -64101,7 +64108,6 @@
 ||xhmzgbj.com
 ||xhn888.com
 ||xhnews.net
-||xhomestudio.org
 ||xhood.net
 ||xhostserver.com
 ||xhpfw.com
@@ -70416,6 +70422,7 @@
 ||zhe4000.com
 ||zhe800.com
 ||zhebei.com
+||zhedakaoyan.com
 ||zhefengle.com
 ||zhehen.com
 ||zhejiangmuseum.com
