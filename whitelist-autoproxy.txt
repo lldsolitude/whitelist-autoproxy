@@ -5973,6 +5973,7 @@
 ||5ip.cc
 ||5ip9.com
 ||5ipatent.com
+||5ipkwan.com
 ||5ips.net
 ||5iqiqu.com
 ||5iqukuai.com
@@ -7258,6 +7259,7 @@
 ||83990567.com
 ||83dd.com
 ||83edu.net
+||83h87d.com
 ||83jie.com
 ||83om.com
 ||84.com
@@ -30320,6 +30322,7 @@
 ||hitfmfans.com
 ||hitgk.com
 ||hitnology.com
+||hitnslab.xyz
 ||hitokoto.us
 ||hitortoise.com
 ||hitouch.com
@@ -33488,6 +33491,7 @@
 ||iminho.me
 ||iminisd.com
 ||imipy.com
+||imiqian.com
 ||imjiayin.com
 ||imkerwin.com
 ||imkevinyang.com
@@ -41223,6 +41227,7 @@
 ||lpllol.com
 ||lply.net
 ||lppz.com
+||lprcx.com
 ||lpswz.com
 ||lptiyu.com
 ||lpwnice.com
@@ -43982,6 +43987,7 @@
 ||moqikaka.com
 ||moqilin.net
 ||moqing.com
+||moqipobing.com
 ||moqu8.com
 ||moquu.com
 ||moracoffee.cc
@@ -59131,6 +59137,7 @@
 ||ugbb.com
 ||ugcar.com
 ||ugdtimg.com
+||ugediao.com
 ||uggas.com
 ||uggd.com
 ||ugirls.tv
