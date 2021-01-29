@@ -2793,6 +2793,7 @@
 ||273u.com
 ||275st.com
 ||2770014.com
+||277sy.com
 ||27844b.com
 ||2799web.com
 ||279wo.com
@@ -7691,7 +7692,6 @@
 ||92cloud.com
 ||92cy.cc
 ||92demo.com
-||92dns.com
 ||92dp.com
 ||92dxs.com
 ||92ez.com
@@ -8527,6 +8527,7 @@
 ||acgdoge.net
 ||acgface.com
 ||acgist.com
+||acgjie.com
 ||acglf.com
 ||acglingsheng8.com
 ||acgmall.com
@@ -9076,6 +9077,7 @@
 ||aiijournal.com
 ||aiimg.com
 ||aiimooc.com
+||aiioii.com
 ||aiizen.net
 ||aijc.net
 ||aiji66.com
@@ -17648,7 +17650,6 @@
 ||cnseay.com
 ||cnsecer.com
 ||cnseeq.com
-||cnseor.com
 ||cnsesan.com
 ||cnsfk.com
 ||cnshipnet.com
@@ -18333,6 +18334,7 @@
 ||cqjy.com
 ||cqkdtui.com
 ||cqkdtui1.com
+||cqkhg.com
 ||cqkjwx.com
 ||cqkqinfo.com
 ||cqkundian.com
@@ -21277,6 +21279,7 @@
 ||doumi.com
 ||doumili.com
 ||doumistatic.com
+||doumobfour.club
 ||doumobsix.site
 ||doumobtech.online
 ||doupai.cc
@@ -27383,7 +27386,6 @@
 ||gxcards.com
 ||gxcgw.com
 ||gxcic.net
-||gxcxsb.com
 ||gxdingge.com
 ||gxdmw.com
 ||gxfdcw.com
@@ -29617,6 +29619,7 @@
 ||hldnews.com
 ||hldqjx.com
 ||hldsjsjx.com
+||hldtr.com
 ||hlej.com
 ||hlfssh.com
 ||hlgad.com
@@ -39048,6 +39051,7 @@
 ||liewen.cc
 ||liewen.la
 ||liexing-ai.com
+||liexing.com
 ||lieyou.com
 ||lieyuncapital.com
 ||lieyuncj.com
@@ -44239,7 +44243,6 @@
 ||nicky1605.com
 ||nicolaszhao.com
 ||niconiconi.cc
-||nicotv.me
 ||nicvision.com
 ||nideu.com
 ||nidianwobang.com
@@ -48323,6 +48326,8 @@
 ||qmei.me
 ||qmei.vip
 ||qmengyun.com
+||qmht.com
+||qmht.mobi
 ||qmitao.com
 ||qmood.com
 ||qmqm.net
@@ -49119,7 +49124,6 @@
 ||rainbowcn.com
 ||rainbowred.com
 ||rainbowsoft.org
-||raincy.org
 ||raindi.net
 ||raindoe.com
 ||raineggplant.com
@@ -64989,6 +64993,7 @@
 ||yanlinghm.com
 ||yanliu.org
 ||yanlutong.com
+||yanmbjiage.com
 ||yannv.com
 ||yanoda.com
 ||yanpk.com
@@ -65761,6 +65766,7 @@
 ||yingdianzi.com
 ||yinge.tech
 ||yingerchela.com
+||yingfeiyun.com
 ||yingfeng.me
 ||yinghaicar.com
 ||yinghaozs.com
@@ -66232,6 +66238,7 @@
 ||ymeme.com
 ||ymexf.com
 ||ymfe.org
+||ymfhbcj.net
 ||ymfile.com
 ||ymfile01.com
 ||ymgmno.com
