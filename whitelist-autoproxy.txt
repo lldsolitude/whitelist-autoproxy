@@ -1469,7 +1469,6 @@
 ||138top.com
 ||138txt.com
 ||138vps.com
-||139.cm
 ||139.com
 ||139018.com
 ||1391.com
@@ -2175,6 +2174,7 @@
 ||1diary.me
 ||1domedia.com
 ||1drj.com
+||1drv.ws
 ||1dufish.com
 ||1duhy.com
 ||1dume.com
@@ -2423,6 +2423,7 @@
 ||2144gy.com
 ||2146677.com
 ||214yx.com
+||2155.com
 ||217.net
 ||217play.com
 ||217wo.com
@@ -3128,6 +3129,7 @@
 ||333-555.com
 ||33324333.com
 ||333333.com
+||333666999.club
 ||3339.cc
 ||3339auto.com
 ||333ck.com
@@ -3630,7 +3632,10 @@
 ||39655.com
 ||3970yy.com
 ||3975.com
+||3975ad.com
 ||3975ad.xyz
+||3975app.com
+||3975cdn.com
 ||398990.com
 ||39ask.net
 ||39box.com
@@ -4948,6 +4953,7 @@
 ||52115211.com
 ||5211game.com
 ||521360.com
+||52177.com
 ||521che.com
 ||521g.com
 ||521g.org
@@ -8759,6 +8765,7 @@
 ||ag260.net
 ||ag365.com
 ||agalwood.net
+||agamepower.com
 ||agcloudcs.com
 ||agctc.com
 ||age06.com
@@ -11018,6 +11025,7 @@
 ||baikezh.com
 ||bailiaijia.com
 ||bailiangroup.com
+||bailiguangmang.com
 ||bailitech.com
 ||bailitop.com
 ||bailuqixiu.com
@@ -18085,6 +18093,7 @@
 ||coubei.com
 ||counect.com
 ||couns.com
+||couplefish.com
 ||coupon996.com
 ||couponmaster.store
 ||coursegraph.com
@@ -22141,6 +22150,7 @@
 ||ebdoor.com
 ||ebeta.org
 ||ebfcn.com
+||ebibi.com
 ||ebigear.com
 ||ebingqilin.com
 ||ebiobuy.com
@@ -27215,6 +27225,7 @@
 ||guyidai.com
 ||guyiyangsd.com
 ||guyuenglish.com
+||guyungame.com
 ||guzaosf.com
 ||guzhangting.com
 ||guzhifengds.com
@@ -31804,6 +31815,7 @@
 ||idcquan.com
 ||idcsec.com
 ||idcser.com
+||idcsh.com
 ||idcsh.net
 ||idcsped.com
 ||idcspy.com
@@ -44393,6 +44405,7 @@
 ||nocode-tech.com
 ||nocode.com
 ||noddl.me
+||node.cyou
 ||nodeasy.com
 ||nodebb-cn.org
 ||nodeclass.com
@@ -45116,6 +45129,7 @@
 ||onlinesjtu.com
 ||onlinexijiang.com
 ||onlinknews.com
+||only4.work
 ||onlyay.net
 ||onlycatch.com
 ||onlyedu.com
@@ -47007,6 +47021,7 @@
 ||pudaquan.com
 ||pudn.com
 ||pudongwater.com
+||puduoduo123.com
 ||puduzhai.com
 ||puem.org
 ||puercha.cc
@@ -48818,7 +48833,6 @@
 ||qycn.org
 ||qydaili.com
 ||qydimg.com
-||qydm.net
 ||qydns1.com
 ||qyec.com
 ||qyer.com
@@ -49429,8 +49443,8 @@
 ||ritarpower.com
 ||ritayzy.com
 ||ritering.com
-||rivergame.net
 ||rivennero.com
+||rivergame.net
 ||riwee.com
 ||riyuba.com
 ||riyuexing.org
@@ -52956,6 +52970,7 @@
 ||soliloquize.org
 ||solo-launcher.com
 ||solochex.com
+||solodonna.world
 ||solosea.com
 ||solotoon.com
 ||solution9.net
@@ -53123,6 +53138,7 @@
 ||soukf.com
 ||soukuren.com
 ||soulady.net
+||soulapp.me
 ||souldee.com
 ||soulgame.mobi
 ||souluo.net
@@ -54164,6 +54180,7 @@
 ||sy-home.com
 ||sy25.com
 ||sy2k.com
+||sy3.com
 ||sy76.com
 ||sy916.net
 ||sy9d.com
@@ -56790,6 +56807,7 @@
 ||tuchong.net
 ||tuchuang.org
 ||tuchuang001.com
+||tuchuang188.com
 ||tucia.net
 ||tucoo.com
 ||tudai.cc
@@ -62159,7 +62177,6 @@
 ||xf3z.com
 ||xf4hs.com
 ||xf5z.com
-||xf9168.com
 ||xfabs.com
 ||xfannix.com
 ||xfb315.com
@@ -62970,6 +62987,7 @@
 ||ximalaya.com
 ||ximalayaos.com
 ||ximgs.net
+||ximiplay.com
 ||ximiued.com
 ||ximiyouxi.com
 ||ximizi.com
@@ -63803,6 +63821,7 @@
 ||xntt.com
 ||xntv.tv
 ||xnw.com
+||xnwan.com
 ||xnwx2014.net
 ||xnxin.com
 ||xny365.com
@@ -64727,7 +64746,6 @@
 ||yangyi08.com
 ||yangyingming.com
 ||yangyongquan.com
-||yangyoulin.com
 ||yangyq.net
 ||yangzhe1991.org
 ||yangzhi.net
@@ -65711,6 +65729,7 @@
 ||yiruanwang.com
 ||yiruide.com
 ||yiruikecorp.com
+||yiruituo.com
 ||yisa.com
 ||yisafe.co
 ||yisanban.com
