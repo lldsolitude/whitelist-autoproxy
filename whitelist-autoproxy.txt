@@ -18824,6 +18824,7 @@
 ||cxmms.com
 ||cxmt.com
 ||cxmtc.net
+||cxqb.net
 ||cxsw3d.com
 ||cxsyjy.com
 ||cxta.com
@@ -20438,7 +20439,6 @@
 ||dingdongcloud.com
 ||dingdongqb.com
 ||dingfang123.com
-||dingguajiao.com
 ||dinghaiec.com
 ||dinghuaren.com
 ||dinghuihuojia.com
@@ -28919,7 +28919,6 @@
 ||hemayun.com
 ||hemayx.com
 ||heminjie.com
-||hemnq.com
 ||hempelgroup.com
 ||hen360.com
 ||henan100.com
@@ -39194,6 +39193,7 @@
 ||linux265.com
 ||linux5.net
 ||linux6.com
+||linuxacme.icu
 ||linuxba.com
 ||linuxbaike.com
 ||linuxbaodian.com
@@ -46236,6 +46236,7 @@
 ||piaoshen.com
 ||piaotian.org
 ||piaotian.us
+||piaotian5.com
 ||piaotongyun.com
 ||piaowu99.com
 ||piaowusong.com
@@ -49873,6 +49874,7 @@
 ||ruuxee.com
 ||ruvar.com
 ||ruvisas.com
+||ruwen5.com
 ||ruxianke.com
 ||ruyahui.com
 ||ruyi.ai
@@ -56643,6 +56645,7 @@
 ||tt-beian.com
 ||tt-bike.com
 ||tt-ly.com
+||tt-tz.com
 ||tt116114.com
 ||tt1386.com
 ||tt1h.com
@@ -58621,6 +58624,7 @@
 ||vqudo.com
 ||vqudochina.com
 ||vqudoshop.com
+||vqxfj.bar
 ||vr-cat.com
 ||vr1000.com
 ||vr186.com
