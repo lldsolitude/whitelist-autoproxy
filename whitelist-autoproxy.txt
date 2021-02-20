@@ -22,7 +22,6 @@
 ||001tech.com
 ||001town.com
 ||001xin.com
-||0024aaaa.com
 ||0028i.com
 ||002lzj.com
 ||0033.com
@@ -240,7 +239,6 @@
 ||024fuwu.com
 ||024fytx.com
 ||024fzy.com
-||024geliweixiu.com
 ||024grc.com
 ||024heyi.com
 ||024hh.com
@@ -2080,6 +2078,7 @@
 ||18lipin.com
 ||18ph.com
 ||18qiang.com
+||18shuwu.com
 ||18touch.com
 ||18vps.com
 ||18wk.com
@@ -3453,7 +3452,6 @@
 ||365kzj.com
 ||365master.com
 ||365mini.com
-||365ng.com
 ||365pcbuy.com
 ||365pk.com
 ||365pp.com
@@ -17092,7 +17090,6 @@
 ||cnaaa9.com
 ||cnacg.cc
 ||cnad.com
-||cnadtop.com
 ||cnaf.com
 ||cnagcoin.com
 ||cnaho.com
@@ -18094,7 +18091,6 @@
 ||coverweb.cc
 ||covinda.com
 ||covtv.com
-||cow.black
 ||cowarobot.com
 ||cowgrrl.com
 ||cowlevel.net
@@ -23099,6 +23095,7 @@
 ||etongguan.com
 ||etonkidd.com
 ||etoote.com
+||etoplive.com
 ||etosun.com
 ||etoubao.com
 ||etowz.com
@@ -25176,6 +25173,7 @@
 ||fyktaqm.com
 ||fynas.com
 ||fynews.net
+||fyq99.com
 ||fyrcbk.com
 ||fyrexian.com
 ||fyrwzz.com
@@ -26388,7 +26386,6 @@
 ||gohong.com
 ||gohugo.org
 ||going-link.com
-||goingamer.com
 ||gojiaju.com
 ||goke.com
 ||gokols.com
@@ -27048,6 +27045,7 @@
 ||guilintravel.com
 ||guimengning.com
 ||guimi.com
+||guimilu.com
 ||guimimianbao.cc
 ||guimipay.net
 ||guipp.com
@@ -27854,6 +27852,7 @@
 ||haizihe.com
 ||haizitong.com
 ||hajjjc.com
+||haku77.com
 ||halade.com
 ||halaha.com
 ||halffashion.com
@@ -38769,7 +38768,6 @@
 ||lianshangbing.com
 ||lianshijie.com
 ||liansuo.com
-||liansuo580.com
 ||liantianhong.com
 ||liantu.com
 ||liantuobank.com
@@ -45573,7 +45571,6 @@
 ||pagurian.com
 ||pahaoche.com
 ||pahou.com
-||pahuanlegou.com
 ||pahys.com
 ||pai-hang-bang.com
 ||paibanxia.com
@@ -48188,7 +48185,6 @@
 ||qntz.cc
 ||qnvod.net
 ||qnvod.vip
-||qnxsk.com
 ||qnydns.com
 ||qnydns.net
 ||qo26.com
@@ -49974,6 +49970,7 @@
 ||saasv.com
 ||saaswaf.com
 ||saayaa.com
+||sablog.net
 ||sac-china.com
 ||sacdr.net
 ||sact-digital.com
@@ -50399,6 +50396,7 @@
 ||scyongqin.com
 ||scyslb.com
 ||scytyy.net
+||scyusuan.com
 ||sczg.com
 ||sczj.org
 ||sczlb.com
@@ -50847,6 +50845,7 @@
 ||sflqw.com
 ||sforest.in
 ||sfpgmk.com
+||sfplay.net
 ||sfwxf.com
 ||sfyb.com
 ||sfygroup.com
@@ -54038,7 +54037,6 @@
 ||swjinsheng.com
 ||swjl.net
 ||swjoy.com
-||swjrzk.com
 ||swkong.com
 ||swlhome.com
 ||swlidc.com
@@ -54712,7 +54710,6 @@
 ||tajyw.net
 ||takeinblue.com
 ||takeitem.com
-||takoyamanpuku.com
 ||takungpao.com
 ||tal-rasha.com
 ||taladapp.com
@@ -60063,7 +60060,6 @@
 ||wh-motorshow.com
 ||wh-mx.com
 ||wh10000.com
-||wh10001.com
 ||wh100idc.com
 ||wh111.com
 ||wh119.com
@@ -61661,6 +61657,7 @@
 ||wxjx123.com
 ||wxjxyb.com
 ||wxjyql.com
+||wxlagame.com
 ||wxlongre.com
 ||wxlss.com
 ||wxlvxin.com
@@ -64909,7 +64906,6 @@
 ||ybword.com
 ||ybwzx.com
 ||ybxww.com
-||ybytlsq.com
 ||ybzhao.com
 ||ybzkb.com
 ||yc.cc
