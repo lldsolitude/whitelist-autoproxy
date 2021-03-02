@@ -2018,7 +2018,6 @@
 ||187801.com
 ||188.com
 ||188158.com
-||188211.com
 ||1884933.com
 ||18856.com
 ||1885888.com
@@ -3273,7 +3272,6 @@
 ||360cloudwaf.com
 ||360daikuan.com
 ||360dao.com
-||360dns.org
 ||360doc.com
 ||360doc2.net
 ||360doc26.net
@@ -4541,7 +4539,6 @@
 ||51jiabo.com
 ||51jiameng.com
 ||51jianxie.com
-||51jiarenla.com
 ||51jiasu.com
 ||51jiaxiao.com
 ||51jiecai.com
@@ -6497,7 +6494,6 @@
 ||766.com
 ||7663.com
 ||76676.com
-||766788.com
 ||766sf.com
 ||766z.com
 ||7676.com
@@ -9914,7 +9910,6 @@
 ||anyknew.com
 ||anymcu.com
 ||anymetre.com
-||anyoneking.com
 ||anyoy.com
 ||anyrtc.io
 ||anysdk.com
@@ -14854,7 +14849,6 @@
 ||cfsino.com
 ||cfsl2017.com
 ||cftea.com
-||cftk9.com
 ||cftong.com
 ||cfucn.com
 ||cfund108.com
@@ -15392,7 +15386,6 @@
 ||cherriespie.com
 ||cherry101.com
 ||cherymanuals.com
-||chese.co
 ||chese.online
 ||cheshi-img.com
 ||cheshi.com
@@ -16673,7 +16666,6 @@
 ||citscsc.com
 ||citshq.com
 ||citssh.com
-||citszb.com
 ||citszz.com
 ||cittc.net
 ||citure.net
@@ -20402,7 +20394,6 @@
 ||dijitalevren.com
 ||dijiu.com
 ||dijiuban.com
-||dijiuke.com
 ||diketattoo.com
 ||dikudu.com
 ||dili360.com
@@ -20650,6 +20641,7 @@
 ||dlemba.com
 ||dlfederal.com
 ||dlflavor.com
+||dlfreak.com
 ||dlg029.com
 ||dlgaoji.com
 ||dlgcpvc.com
@@ -21866,7 +21858,6 @@
 ||dzmdq.com
 ||dzmhospital.com
 ||dzng.com
-||dznjslm.com
 ||dzoptics.com
 ||dzpk.com
 ||dzpz6.com
@@ -23114,7 +23105,6 @@
 ||ets-toeic.com
 ||ets100.com
 ||etsc-tech.com
-||etsmg.com
 ||etsoon.com
 ||etsstar.com
 ||etstock.net
@@ -23659,6 +23649,7 @@
 ||fanqiesoq.com
 ||fanqietuan.com
 ||fanqieui.com
+||fanqievv.com
 ||fanqiewin10.com
 ||fanquanba.com
 ||fanquanwang.com
@@ -24428,7 +24419,6 @@
 ||fktong.com
 ||fkw.com
 ||fkw100.com
-||fkweber.com
 ||fkxxyz.com
 ||fkyuer.com
 ||fkyun.com
@@ -25548,7 +25538,6 @@
 ||gatefanyi.com
 ||gatewang.com
 ||gather-dns.com
-||gather-sc.com
 ||gaussianoptics.com
 ||gavindesign.com
 ||gaxrmyy.com
@@ -26411,6 +26400,7 @@
 ||goldbox.vip
 ||golden-book.com
 ||golden-infor.com
+||goldenad.net
 ||goldendoc.org
 ||goldenholiday.com
 ||goldenhome.cc
@@ -27664,7 +27654,6 @@
 ||hadax.com
 ||hadns.net
 ||hadobi.com
-||hadoop1024.com
 ||hadsky.com
 ||haers.com
 ||haguan.com
@@ -28919,7 +28908,6 @@
 ||henangeli.com
 ||henanjianling.com
 ||henanjubao.com
-||henankh.com
 ||henanlvyi.com
 ||henanpige.com
 ||henansenli.com
@@ -32292,7 +32280,6 @@
 ||ilidubj.net
 ||ilife69.com
 ||ilifesmart.com
-||ilin-lighting.com
 ||ilingdai.com
 ||ilinkee.com
 ||ilinki.net
@@ -35037,7 +35024,6 @@
 ||jlc.com
 ||jlccpit.com
 ||jlcerp.com
-||jlchezhuli.com
 ||jldldz.com
 ||jlforging.com
 ||jlfzb.com
@@ -35654,6 +35640,7 @@
 ||jucong.com
 ||judacdn.com
 ||judouapp.com
+||judyclub.com
 ||jue-ce.com
 ||jue.so
 ||jue1.com
@@ -37616,7 +37603,6 @@
 ||kutuan.com
 ||kuuhuu.com
 ||kuuke.com
-||kuvcn.com
 ||kuwan8.com
 ||kuwanapp.com
 ||kuwanbang.com
@@ -40688,7 +40674,6 @@
 ||madku.com
 ||madmalls.com
 ||madou.com
-||madou02.com
 ||madouer.com
 ||madouka.com
 ||madown.com
@@ -41233,7 +41218,6 @@
 ||mc0411.com
 ||mc123.cc
 ||mc26.com
-||mc2lab.com
 ||mc361.com
 ||mc91.com
 ||mcaccess-e.com
@@ -44391,7 +44375,6 @@
 ||nodetoo.com
 ||nohken-sdy.com
 ||nohup.cc
-||noirbright.com
 ||noire.cc
 ||nok2.com
 ||nokia-sbell.com
@@ -49220,6 +49203,7 @@
 ||rendiyu.com
 ||renfas.com
 ||renhence.com
+||renhengshiye.com
 ||renji.com
 ||renjian.com
 ||renjiaoshe.com
@@ -49980,7 +49964,6 @@
 ||safecenter.com
 ||safecn.net
 ||safehoo.com
-||safeinfo.me
 ||safeionline.com
 ||safejmp.com
 ||safenext.com
@@ -50360,7 +50343,6 @@
 ||scsdns.com
 ||scsdzxh.org
 ||scsgk.com
-||scshenyu.com
 ||scsjnxh.org
 ||scsstjt.com
 ||sctaixin.com
@@ -51097,7 +51079,6 @@
 ||shanzhaiba.com
 ||shanzhaiji.com
 ||shanzhaiwang.net
-||shanzhayuan.com
 ||shanzhen.me
 ||shanzhengren.com
 ||shanzhonglei.com
@@ -52299,7 +52280,6 @@
 ||sinoinfosec.com
 ||sinoins.com
 ||sinointeractive.com
-||sinolinde.com
 ||sinologyinstitute.com
 ||sinolub.com
 ||sinolube.com
@@ -53956,7 +53936,6 @@
 ||surveyhills.com
 ||surveyunion.com
 ||survivor99.com
-||susansselections.com
 ||susong51.com
 ||susongbbs.com
 ||susouth.com
@@ -54222,7 +54201,6 @@
 ||symama.com
 ||symdc.com
 ||symm-expo.com
-||symrrh.com
 ||symtc.com
 ||symuge.com
 ||syn029.com
@@ -55145,7 +55123,6 @@
 ||tdnsv6.com
 ||tdpress.com
 ||tdsx114.com
-||tdtsd.com
 ||tduou.com
 ||tdzyw.com
 ||te5.com
@@ -61804,7 +61781,6 @@
 ||wzxycj.com
 ||wzyestar.com
 ||wzyun.net
-||wzyywlkj.com
 ||wzz180809.net
 ||wzz1809.com
 ||wzzw.la
@@ -62836,8 +62812,6 @@
 ||xiayx.com
 ||xiazai.com
 ||xiazai163.com
-||xiazai2.net
-||xiazai3.net
 ||xiazai9527.com
 ||xiazaiba.com
 ||xiazaicc.com
@@ -65919,6 +65893,7 @@
 ||ykjhdc.com
 ||ykntv.com
 ||ykpxxx.com
+||ykq.ink
 ||ykqnl.com
 ||ykread.com
 ||yks365.com
@@ -66147,7 +66122,6 @@
 ||yokowoo.com
 ||yolanda.hk
 ||yolao.com
-||yoletuan.com
 ||yolewa.com
 ||yolexi.com
 ||yolinkmob.com
@@ -67267,7 +67241,6 @@
 ||yureen.com
 ||yurenty.com
 ||yuriimg.com
-||yurunpool.com
 ||yusa.me
 ||yushanapp.com
 ||yushexuetang.com
@@ -67466,7 +67439,6 @@
 ||yxyun.com
 ||yxyzjx.com
 ||yxz.me
-||yxzhengmao.com
 ||yxzr.com
 ||yxzxgy.com
 ||yy-xjy.com
@@ -67770,6 +67742,7 @@
 ||zbbg.com
 ||zbce.net
 ||zbchengxinfs.com
+||zbex.live
 ||zbfilm.com
 ||zbfjsj.com
 ||zbgedu.com
@@ -68532,6 +68505,7 @@
 ||zhenxunkeji.com
 ||zhenyouhuo.com
 ||zhenyouliao.com
+||zhenyouweb.com
 ||zhenyukj.com
 ||zhenzanzixun.com
 ||zhepic.com
@@ -69966,6 +69940,7 @@
 ||zsc.io
 ||zscm8.com
 ||zsdaoyi.com
+||zsdk.cc
 ||zsdlw.com
 ||zsemall.com
 ||zseoo.com
