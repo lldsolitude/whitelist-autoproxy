@@ -771,7 +771,6 @@
 ||09635.com
 ||09685.com
 ||096hg.com
-||097rcw.com
 ||0982b.com
 ||0991dj.com
 ||0991net.com
@@ -1212,7 +1211,6 @@
 ||11space.com
 ||11sun.com
 ||11wyx.com
-||11x5home.com
 ||11xotn7p.com
 ||11yuanma.com
 ||11ziyun.com
@@ -1254,7 +1252,6 @@
 ||12226.com
 ||12227.com
 ||122park.com
-||122wz.com
 ||123-789.com
 ||123-biyezheng.org
 ||123.cc
@@ -2106,7 +2103,6 @@
 ||198w.net
 ||1992789.com
 ||199508.com
-||19977.com
 ||1997sty.com
 ||1998mall.com
 ||1999019.com
@@ -6373,7 +6369,6 @@
 ||71study.com
 ||71txt.com
 ||71wl.com
-||71wx.net
 ||71xe.com
 ||71zs.com
 ||720582.com
@@ -7158,7 +7153,6 @@
 ||889xp.com
 ||88bada.com
 ||88bank.com
-||88bf33.com
 ||88bx.com
 ||88cdn.com
 ||88dj.com
@@ -10553,7 +10547,6 @@
 ||austargroup.com
 ||austarskill.com
 ||austarstudy.com
-||australian-business-online.com
 ||ausuu.com
 ||auto-beijing.com
 ||auto-ccpit.org
@@ -12032,8 +12025,6 @@
 ||bieshu.com
 ||bietongfeng.com
 ||bieyangapp.com
-||bifa2003.com
-||bifa2006.com
 ||bifa770.com
 ||bifabu.com
 ||bifen.la
@@ -12972,6 +12963,7 @@
 ||bojun-import.com
 ||bojuwang.com
 ||bokao2o.com
+||bokcms.com
 ||boke.com
 ||boke112.com
 ||boke8.net
@@ -13467,7 +13459,6 @@
 ||buzzads.com
 ||buzzinate.com
 ||buzzopt.com
-||bvbfans.net
 ||bvgv.com
 ||bvimg.com
 ||bvseo.com
@@ -15918,7 +15909,6 @@
 ||chinanetsun.com
 ||chinaneweast.com
 ||chinanews.com
-||chinanewscb.com
 ||chinaningbo.com
 ||chinanmi.com
 ||chinanotary.org
@@ -15943,7 +15933,6 @@
 ||chinapet.net
 ||chinapharm.net
 ||chinaphoto.cc
-||chinaphotozt.com
 ||chinapipe.net
 ||chinaplat.com
 ||chinapm.org
@@ -22568,7 +22557,6 @@
 ||ejunshi.com
 ||ek6.com
 ||ekaidian.com
-||ekaing.com
 ||ekan001.com
 ||ekan123.com
 ||ekang99.com
@@ -25243,7 +25231,6 @@
 ||galgame.net
 ||galgamez.cc
 ||galgamez.com
-||galgamezd.com
 ||galiaoba.com
 ||gallopgazelle.com
 ||galstars.net
@@ -29525,7 +29512,6 @@
 ||hnfjwh.com
 ||hnfjz.com
 ||hnflcp.com
-||hnflhzl.com
 ||hnfyqmj.com
 ||hngbw.com
 ||hngh.org
@@ -33571,7 +33557,6 @@
 ||javastudy.cloud
 ||javatang.com
 ||javaweb.io
-||javaweb.org
 ||javawind.net
 ||javaxxz.com
 ||javazhiyin.com
@@ -36795,7 +36780,6 @@
 ||kisa747.com
 ||kischess.com
 ||kisdee.com
-||kissingwolf.com
 ||kissyui.com
 ||kiswo.com
 ||kit-lee.me
@@ -38143,7 +38127,6 @@
 ||ldnovel.com
 ||ldplayer.net
 ||ldqxn.com
-||ldrisk.com
 ||ldshj.com
 ||ldsink.com
 ||ldsjp.com
@@ -40212,7 +40195,6 @@
 ||lvcheng.com
 ||lvchicar.com
 ||lvdoutang.com
-||lvehaisen.com
 ||lvfang.cc
 ||lvfl.net
 ||lvgaud.ga
@@ -42987,7 +42969,6 @@
 ||mxnxs.com
 ||mxpkw.com
 ||mxqe.com
-||mxqjzg.com
 ||mxria.com
 ||mxruv.com
 ||mxs.com
@@ -44344,7 +44325,6 @@
 ||now-do.com
 ||nowapi.com
 ||nowbeta.com
-||nowbmzk.com
 ||nowchip.com
 ||nowcoder.com
 ||nowcoder.net
@@ -44421,7 +44401,6 @@
 ||nstom.net
 ||nsw88.com
 ||nsw99.com
-||nsxxw.com
 ||nsydt.com
 ||nszmz.com
 ||nt.cc
@@ -45935,7 +45914,6 @@
 ||pgl-world.com
 ||pglstatp-toutiao.com
 ||pgnan.com
-||pgrrr.com
 ||pgsql.tech
 ||pgsqldb.com
 ||pgsqldb.org
@@ -48164,7 +48142,6 @@
 ||qqkw.net
 ||qqleju.com
 ||qqlin.net
-||qqlinux.com
 ||qqm98.com
 ||qqma.com
 ||qqmail.com
@@ -51050,7 +51027,6 @@
 ||she.vc
 ||shebao.net
 ||shebao5.com
-||shebaogjj.com
 ||shebaotong.com
 ||shebaoyizhan.com
 ||shebiaotm.com
@@ -54429,7 +54405,6 @@
 ||szyxwkj.com
 ||szyyt.com
 ||szyyx.com
-||szyzrtj.com
 ||szzbmy.com
 ||szzfgjj.com
 ||szzfzd.com
@@ -55709,7 +55684,6 @@
 ||tisino.com
 ||tisiwi.com
 ||tisohinge.com
-||tisu8.com
 ||tita.com
 ||titan007.com
 ||titan24.com
@@ -60022,7 +59996,6 @@
 ||whhpyy120.com
 ||whhsg.com
 ||whhslndx.com
-||whhtxx.com
 ||whhuatian.com
 ||whhuiyu.com
 ||whhxts.com
@@ -60817,7 +60790,6 @@
 ||wood168.net
 ||woodbunny.com
 ||wooddb.com
-||woodenrobot.me
 ||woodnn.com
 ||wooee.net
 ||wooffice.net
@@ -62321,6 +62293,7 @@
 ||xiaobd.net
 ||xiaobenzi.com
 ||xiaobingxitong.com
+||xiaobu121.com
 ||xiaocaoo.com
 ||xiaocaoyun.com
 ||xiaocen.com
@@ -64831,7 +64804,6 @@
 ||yduav.com
 ||yduedu.com
 ||ydui.org
-||yduoo.com
 ||ydvip00ap.com
 ||ydvip00as.com
 ||ydx2.com
@@ -65985,7 +65957,6 @@
 ||yonghongtech.com
 ||yonghuigj.com
 ||yonghuivip.com
-||yongjiu8.com
 ||yongkao.com
 ||yonglang.co
 ||yonglongdai.com
@@ -67132,7 +67103,6 @@
 ||yuyanpingce.com
 ||yuyicai.com
 ||yuyin.tv
-||yuyiya.com
 ||yuyoutuan.com
 ||yuyu.com
 ||yuyue111.com
