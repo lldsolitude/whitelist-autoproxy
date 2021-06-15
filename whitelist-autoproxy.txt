@@ -7221,7 +7221,6 @@
 ||91kami.com
 ||91keman.com
 ||91keto.com
-||91kuzhan.com
 ||91laihama.com
 ||91ld.com
 ||91lda.com
@@ -8156,7 +8155,6 @@
 ||acgist.com
 ||acgjie.com
 ||acglf.com
-||acglingsheng8.com
 ||acgmall.com
 ||acgn.pw
 ||acgnt.com
@@ -13571,7 +13569,6 @@
 ||canhot.net
 ||caniculab.com
 ||canidc.com
-||canimktg.com
 ||canjiren.net
 ||cankao100.com
 ||cankaoxiaoxi.com
@@ -15211,7 +15208,6 @@
 ||chinabyhx.com
 ||chinabym.com
 ||chinabyte.com
-||chinabyte.net
 ||chinabzp.com
 ||chinac.com
 ||chinac3.com
@@ -17715,7 +17711,6 @@
 ||cqgc.com
 ||cqgmfw.com
 ||cqgz.com
-||cqgzfw.com
 ||cqh2o.com
 ||cqhansa.com
 ||cqhcbk.com
@@ -19898,7 +19893,6 @@
 ||dingniugu.com
 ||dingqidong.com
 ||dingsheng.com
-||dingshengjishu.com
 ||dingshifa.com
 ||dingshijixie.com
 ||dingso.com
@@ -26585,7 +26579,6 @@
 ||gxicpa.com
 ||gxidc.com
 ||gxind.com
-||gxit.online
 ||gxjgdj.com
 ||gxjtaq.com
 ||gxjubao.org
@@ -28124,6 +28117,7 @@
 ||heliweb.net
 ||helixcommunity.org
 ||hello-code.com
+||hello-inc.com
 ||hello-mom.com
 ||hello1010.com
 ||hellobanma.com
@@ -31553,6 +31547,7 @@
 ||imageaccelerate.com
 ||imageedu.com
 ||imagefz.com
+||imagehub.cc
 ||imagelol.com
 ||imagepy.org
 ||images-cache.com
@@ -33420,7 +33415,6 @@
 ||jiaoyimao.com
 ||jiaoyin.com
 ||jiaoyitu.com
-||jiaoyiwu.cc
 ||jiaoyixia.com
 ||jiaoyizhu.com
 ||jiaoyudao.com
@@ -34202,7 +34196,6 @@
 ||jllihua.com
 ||jlmhw.com
 ||jlonline.com
-||jlopen.com
 ||jlpay.com
 ||jlpzj.net
 ||jlq.com
@@ -34454,7 +34447,6 @@
 ||joyzlan.com
 ||jp.com
 ||jp14.com
-||jpaifusen.com
 ||jpanj.com
 ||jpbeta.net
 ||jpeen.com
@@ -37241,7 +37233,6 @@
 ||lazada.vn
 ||lazybios.com
 ||lazylorna.com
-||lb-floor.com
 ||lbagan.com
 ||lbal168.com
 ||lbbniu.com
@@ -44408,7 +44399,6 @@
 ||p99998888.com
 ||pa18.com
 ||pa1pa.com
-||pa80.com
 ||paascloud.net
 ||paat.com
 ||pacdn.com
@@ -45278,7 +45268,6 @@
 ||pj00001.com
 ||pj155.com
 ||pj52.net
-||pj886888.com
 ||pjbest.com
 ||pjf.name
 ||pjforging.com
@@ -47078,6 +47067,7 @@
 ||qqkw.net
 ||qqleju.com
 ||qqlin.net
+||qqlyjt.com
 ||qqm98.com
 ||qqma.com
 ||qqmail.com
@@ -47978,7 +47968,6 @@
 ||renderincloud.com
 ||rendiyu.com
 ||rendna.com
-||renfas.com
 ||renhence.com
 ||renhengshiye.com
 ||renji.com
@@ -48339,7 +48328,6 @@
 ||rosaryshelties.com
 ||rosecmsc.com
 ||rosedata.com
-||roseduan.com
 ||rosefinchfund.com
 ||roshanca.com
 ||rosinson.com
@@ -52105,7 +52093,6 @@
 ||sszj.net
 ||sszjnc.com
 ||sszzz.com
-||st0008.com
 ||st001.com
 ||st123.com
 ||st180.com
@@ -54279,7 +54266,6 @@
 ||tiantian.com
 ||tiantian688.com
 ||tiantian8.com
-||tiantianbianma.com
 ||tiantianfm.com
 ||tiantiangold.com
 ||tiantianhr.com
@@ -59665,6 +59651,7 @@
 ||wpengapp.com
 ||wpgdadatong.com
 ||wpgdadawant.com
+||wphonelife.com
 ||wphun.com
 ||wpimg-wallstcn.com
 ||wping.org
@@ -61402,6 +61389,7 @@
 ||xiezewen.com
 ||xiezhenxian.net
 ||xiezhenye.com
+||xieziqiu.net
 ||xiezixiansheng.com
 ||xiezuocat.com
 ||xifan.org
@@ -62454,7 +62442,6 @@
 ||xtea.org
 ||xtedu.com
 ||xteko.com
-||xtfcjt.com
 ||xtfml.com
 ||xtgreat.com
 ||xthc999.com
@@ -65744,7 +65731,6 @@
 ||ywnds.com
 ||ywnz.com
 ||ywopt.com
-||ywpfjm.com
 ||ywsawei.com
 ||ywshouyou.com
 ||ywsoftware.com
@@ -67492,6 +67478,7 @@
 ||zhujiceping.com
 ||zhujiwiki.com
 ||zhujiwu.com
+||zhujiyou.com
 ||zhuke.com
 ||zhulang.com
 ||zhulanli.com
