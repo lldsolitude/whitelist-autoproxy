@@ -2889,6 +2889,7 @@
 ||360bzl.com
 ||360caifu.com
 ||360cdn.com
+||360cdnjiasu.com
 ||360changshi.com
 ||360che.com
 ||360chezhan.com
@@ -7506,7 +7507,6 @@
 ||acetace.com
 ||acewill.net
 ||acftu.org
-||acfun.cc
 ||acfunchina.com
 ||acg-moe.com
 ||acg.gd
@@ -10815,7 +10815,6 @@
 ||bh5.com
 ||bh8sel.com
 ||bhdata.com
-||bhdns.net
 ||bhfangchan.com
 ||bhgmarketplace.com
 ||bhgxq.com
@@ -11696,7 +11695,6 @@
 ||bmw021.com
 ||bmw143.com
 ||bmw8033.com
-||bn016.com
 ||bn13.com
 ||bn54.com
 ||bnacg.com
@@ -11920,7 +11918,6 @@
 ||botslab.com
 ||bottos.org
 ||bouffalolab.com
-||bounb.com
 ||boweifeng.com
 ||bowerp.com
 ||bowuzhi.fm
@@ -12792,7 +12789,6 @@
 ||carnoc.com
 ||carodpiano.com
 ||carp56.com
-||carpela.me
 ||carrobot.com
 ||carrotchou.blog
 ||carrotchou.com
@@ -17076,7 +17072,6 @@
 ||ctfund.com
 ||ctghealthy.com
 ||ctghr.com
-||ctguqmx.com
 ||cthuwork.com
 ||cthuwork.net
 ||cthy.com
@@ -17805,7 +17800,6 @@
 ||daokouren.org
 ||daomengad.com
 ||daonazhuce.com
-||daonchina.com
 ||daopub.com
 ||daoqin.net
 ||daoqm.com
@@ -18096,6 +18090,7 @@
 ||ddiaas.com
 ||ddianle.com
 ||ddianshang.com
+||ddijg.com
 ||ddimg.mobi
 ||ddimg.net
 ||dding.net
@@ -23945,6 +23940,7 @@
 ||gfglb.com
 ||gfhj.com
 ||gfjl.org
+||gfnormal00an.com
 ||gfrtrttweet.com
 ||gftuan.com
 ||gfun.me
@@ -31434,7 +31430,6 @@
 ||jdworldwide.com
 ||jdwx.cc
 ||jdwx.info
-||jdwxmagazine.com
 ||jdwxs.com
 ||jdwxwz.com
 ||jdxc.net
@@ -32879,7 +32874,6 @@
 ||jqgc.com
 ||jqgcw.com
 ||jqhtml.com
-||jqingdashi.xyz
 ||jqpress.com
 ||jqr.com
 ||jqr5.com
@@ -34456,6 +34450,7 @@
 ||kmlcl.com
 ||kmlhh.com
 ||kmmama.com
+||kmmklo.com
 ||kmplayercn.com
 ||kmtarena.net
 ||kmw.com
@@ -35065,6 +35060,7 @@
 ||kxjlt.org
 ||kxnboat.com
 ||kxpay.net
+||kxqo2ev.com
 ||kxscience.com
 ||kxt.com
 ||kxting.com
@@ -41263,7 +41259,6 @@
 ||nnylf168.com
 ||nnynrc.com
 ||nnzsxblaw.com
-||noah-dream.com
 ||noahedu.com
 ||noahsnail.com
 ||noahteck.com
@@ -41804,6 +41799,7 @@
 ||oklx.com
 ||okmart.com
 ||okmeeting.com
+||okmjd.com
 ||okmyapp.com
 ||okng.com
 ||okoer.com
@@ -45206,6 +45202,7 @@
 ||quimg.com
 ||quji.com
 ||qujianpan.com
+||qujiemi.com
 ||qujinhuo.com
 ||qujishu.com
 ||qujunde.com
@@ -45947,7 +45944,6 @@
 ||risecenter.com
 ||risechina.org
 ||riselinkedu.com
-||risenb.com
 ||risencn.com
 ||risesoft.net
 ||risfond.com
@@ -45962,7 +45958,6 @@
 ||ritering.com
 ||rivergame.net
 ||riyuanma.com
-||riyuba.com
 ||riyuexing.org
 ||riyuezhuan.com
 ||riyugo.com
@@ -46818,6 +46813,7 @@
 ||scmttec.com
 ||scmylike.com
 ||scnjnews.com
+||scnleee.com
 ||scntv.com
 ||sco-marathon.com
 ||scodereview.com
@@ -48228,6 +48224,7 @@
 ||shuaigay.com
 ||shuaigay6.com
 ||shuaigay7.com
+||shuaigay9.com
 ||shuaigeshe.com
 ||shuaihuajun.com
 ||shuaiming.com
@@ -48835,6 +48832,7 @@
 ||sjf029.com
 ||sjfcdn.com
 ||sjfpro.com
+||sjfs.xyz
 ||sjfx.com
 ||sjfzxm.com
 ||sjgnskf.com
@@ -49909,7 +49907,6 @@
 ||stlswm.com
 ||stmaoyi.com
 ||stmbuy.com
-||stmcu.org
 ||stmybj.com
 ||stnn.cc
 ||stnts.com
@@ -50813,7 +50810,6 @@
 ||sztalent.org
 ||sztanko.com
 ||sztara.com
-||szteacher.net
 ||sztkc.com
 ||sztmt.com
 ||sztongdazulin.com
@@ -51675,6 +51671,7 @@
 ||thearenacapital.com
 ||thearyong.com
 ||theateliercouture.com
+||thebabaoffatherofson.com
 ||thebeastshop.com
 ||thebeautools.com
 ||thebeijinger.com
@@ -59451,7 +59448,6 @@
 ||xnh123.com
 ||xnhdgame.com
 ||xninja.org
-||xnipapp.com
 ||xnjcw.com
 ||xnjjob.com
 ||xnjz.net
@@ -60871,7 +60867,6 @@
 ||yiban1314.com
 ||yibaogao.com
 ||yibei.com
-||yibencaijing.com
 ||yibenmanhua.com
 ||yibite.com
 ||yicai.com
@@ -61079,6 +61074,7 @@
 ||yineitong.com
 ||yinfeiy.com
 ||ying-ji.com
+||yingbei365.com
 ||yingbishufa.com
 ||yingcankeji.com
 ||yingchaozhibo.com
@@ -62118,6 +62114,7 @@
 ||yphuifu.com
 ||ypicw.com
 ||ypjiameng.com
+||ypk.cc
 ||yplady.com
 ||yplmzx.com
 ||yppp.shop
