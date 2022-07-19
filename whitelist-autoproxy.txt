@@ -5330,7 +5330,6 @@
 ||64w.cc
 ||651700.com
 ||6528.com
-||654.com
 ||654320.com
 ||6543210.com
 ||654321wan.com
@@ -7383,7 +7382,6 @@
 ||aaayun.com
 ||aadongman.com
 ||aads-cng.net
-||aaliyaheartha.com
 ||aamachina.org
 ||aaniao.com
 ||aapy38.com
@@ -8297,7 +8295,6 @@
 ||akhtm.com
 ||akhy.com
 ||akinoheya.com
-||akjunshi.com
 ||akkogear.com
 ||akng.net
 ||akniu.com
@@ -8336,7 +8333,6 @@
 ||aleest.com
 ||alenshaw.com
 ||alertover.com
-||alexandraeden.com
 ||alexyan.cc
 ||aleyoo.com
 ||alfeng.com
@@ -8428,7 +8424,6 @@
 ||aliqiche.com
 ||aliresearch.com
 ||alisoft.com
-||alisonedwina.com
 ||alisports.com
 ||alitchina.com
 ||alithefox.net
@@ -8598,7 +8593,6 @@
 ||alwindoor.com
 ||alxw.com
 ||alyisheng.com
-||alyssaeileen.com
 ||alyzq.com
 ||am774.com
 ||am89.com
@@ -10427,6 +10421,7 @@
 ||bdapark.com
 ||bdatu.com
 ||bdc-rays.com
+||bdcdnimg.com
 ||bdchina.com
 ||bdcloudapi.com
 ||bdclouddns.com
@@ -12527,7 +12522,6 @@
 ||caibaopay.com
 ||caibeike.com
 ||caibowen.net
-||caicaieat.com
 ||caichongwang.com
 ||caicui.com
 ||caidan2.com
@@ -15397,7 +15391,6 @@
 ||cloudgfw.com
 ||cloudgfw.net
 ||cloudglb.com
-||cloudglb.net
 ||cloudgoing.com
 ||cloudguarding.com
 ||cloudhosts.xyz
@@ -15427,7 +15420,6 @@
 ||cloudserver01.com
 ||cloudsgis.com
 ||cloudsohu.net
-||cloudstack-china.org
 ||cloudtcp.net
 ||cloudtomicro.com
 ||cloudtopo.com
@@ -15972,7 +15964,6 @@
 ||cnonline.org
 ||cnookr.com
 ||cnool.net
-||cnophol.com
 ||cnops.xyz
 ||cnosr.com
 ||cnoswiki.com
@@ -20434,6 +20425,7 @@
 ||ecsponline.com
 ||ecsxs.com
 ||ecuc123.net
+||ecukwai.com
 ||ecustmde.com
 ||ecvv.com
 ||ecwan77.net
@@ -22154,7 +22146,6 @@
 ||fengone.com
 ||fengpengjun.com
 ||fengpintech.com
-||fengqiyc.com
 ||fengqu.com
 ||fengread.com
 ||fengshangweekly.com
@@ -22778,7 +22769,6 @@
 ||fqpai.com
 ||fqsszx.com
 ||fqxs.org
-||fqzww.com
 ||fr-odc.samsungapps.com
 ||fr-trading.com
 ||fr2007.com
@@ -22978,6 +22968,7 @@
 ||fulinedu.com
 ||fuling.com
 ||fulingwx.com
+||fuliquan.com
 ||fuliti.com
 ||fuliw.net
 ||fuljk.com
@@ -28160,6 +28151,7 @@
 ||huanpingge.com
 ||huanqiu.com
 ||huanqiuauto.com
+||huanqiuhuamu.com
 ||huanqiukexue.com
 ||huanqiumil.com
 ||huanqiuw.com
@@ -28495,7 +28487,6 @@
 ||hulai.com
 ||hulamao.com
 ||hulanap.com
-||huliangongyu.com
 ||hulianmaibo.com
 ||hulinhong.com
 ||huliqun.com
@@ -29417,6 +29408,7 @@
 ||id6.me
 ||idabai.com
 ||idachu.com
+||idadt.com
 ||idafen.com
 ||idaima.com
 ||idangdai.com
@@ -30349,7 +30341,6 @@
 ||internbird.com
 ||internet-dns.com
 ||internet7.vip
-||internetcaff.com
 ||internetke.com
 ||internettrademark.com
 ||internetworld.cloud
@@ -31639,7 +31630,6 @@
 ||jianbing.com
 ||jiancai.com
 ||jianchacha.com
-||jianchajingmk.net
 ||jianchihu.net
 ||jiandaima.com
 ||jiandan.net
@@ -37372,7 +37362,6 @@
 ||luobo360.com
 ||luobocai.com
 ||luobotou.org
-||luobowin10.com
 ||luobowin8.com
 ||luoboxia.com
 ||luochen.com
@@ -38172,7 +38161,6 @@
 ||maro6.com
 ||maroon91.com
 ||marry5.com
-||marry80.com
 ||marsfancy.com
 ||marstor.com
 ||marstv.com
@@ -42514,7 +42502,6 @@
 ||papertime.vip
 ||paperweekly.site
 ||paperword.com
-||paperwrite.net
 ||paperyy.com
 ||papocket.com
 ||paquapp.com
@@ -44934,7 +44921,6 @@
 ||qqyouju.com
 ||qqywf.com
 ||qqyy.com
-||qqyyx.com
 ||qqzby.net
 ||qqzhi.com
 ||qqzi.net
@@ -46675,7 +46661,6 @@
 ||sccm.cc
 ||sccnn.com
 ||sccq.net
-||sccsfxdq.com
 ||sccts.com
 ||sccwz.com
 ||scdbzzw.com
@@ -49197,6 +49182,7 @@
 ||sodeog.com
 ||sodexo-cn.com
 ||sodhef.com
+||sodianwan.com
 ||sodino.com
 ||sodocloud.com
 ||sodocs.net
@@ -49733,7 +49719,6 @@
 ||ssso.com
 ||sst-ic.com
 ||sst-sd.com
-||ssuu.cc
 ||ssvob.com
 ||sswchina.com
 ||ssxf.net
@@ -50419,6 +50404,7 @@
 ||sxszw.net
 ||sxthzs.com
 ||sxtppm.com
+||sxtqsl.com
 ||sxtvs.com
 ||sxtybook.com
 ||sxuyr2nx.com
@@ -51737,7 +51723,6 @@
 ||tianfeiyu.com
 ||tianfupic.com
 ||tianfusoftwarepark.com
-||tianhaohz.com
 ||tianhejiayi.com
 ||tianhongdiaosu.com
 ||tianhongsunshine.com
@@ -52190,7 +52175,6 @@
 ||tmxmall.com
 ||tmxxw.com
 ||tn2000.com
-||tn597.com
 ||tnbz.com
 ||tnccdn.com
 ||tnet.hk
@@ -53705,7 +53689,6 @@
 ||union178.com
 ||union400.com
 ||union555.com
-||unionclouds.net
 ||unioncyber.net
 ||unionli.com
 ||unionpay.com
@@ -56739,6 +56722,7 @@
 ||wolongimg.com
 ||wolongyin.com
 ||wolongyoule.com
+||wolongzywcdn.com
 ||wolwo.ltd
 ||wolwobiotech.com
 ||womai.com
@@ -57181,7 +57165,6 @@
 ||wukong.com
 ||wukong.la
 ||wukongapi.com
-||wukongchou995.com
 ||wukongkf.com
 ||wukonglicai.com
 ||wukongphp.com
@@ -58022,6 +58005,7 @@
 ||xiadele.com
 ||xiadts.com
 ||xiadu.com
+||xiafandi.com
 ||xiagaoqing.com
 ||xiagepian.com
 ||xiakeol.com
@@ -62418,6 +62402,7 @@
 ||yujunjie.com
 ||yujunren.com
 ||yujzw.com
+||yukeinfo.com
 ||yukhj.com
 ||yukicomic.com
 ||yukiimall.com
@@ -62736,7 +62721,6 @@
 ||yushexuetang.com
 ||yushin88.com
 ||yushu5.com
-||yushuha.com
 ||yushunews.com
 ||yusi.com
 ||yusi.tv
@@ -63634,7 +63618,6 @@
 ||zhange8.com
 ||zhangfensir.com
 ||zhanggang.net
-||zhanggao.club
 ||zhanggaoyuan.com
 ||zhanggee.com
 ||zhanghaijun.com
@@ -64366,6 +64349,7 @@
 ||zhuangji.net
 ||zhuangjiba.com
 ||zhuangjiyuan.com
+||zhuangkou.com
 ||zhuangku.com
 ||zhuangpeitu.com
 ||zhuangpin.com
